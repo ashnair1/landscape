@@ -292,7 +292,7 @@ landscape:
             description: TorchGeo is a toolkit containing datasets, samplers, transforms, and pre-trained models for geospatial data.
             homepage_url: https://www.osgeo.org/projects/torchgeo/
             logo: TorchGeo.svg
-            repo_url: https://github.com/microsoft/torchgeo
+            repo_url: https://github.com/torchgeo/torchgeo
             crunchbase: https://www.crunchbase.com/organization/microsoft
       - subcategory:
         name: Medical & Biology
